@@ -41,11 +41,7 @@
   border-radius: 4px;
 }
 
-.item .actions button:hover {
-  background-color: #ffb5d1;
-}
-
-.item .actions button:active {
+.item .actions button:hover, .item .actions button:active {
   background-color: #ffb5d1;
 }
 /*# sourceMappingURL=MeetupItem.module.css.map */

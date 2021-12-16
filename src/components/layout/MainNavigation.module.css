@@ -36,11 +36,7 @@
   color: #fcb8d2;
 }
 
-.header a:active {
-  color: white;
-}
-
-.header a:hover {
+.header a:active, .header a:active {
   color: white;
 }
 

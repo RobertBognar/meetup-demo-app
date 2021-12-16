@@ -20,10 +20,8 @@
         text-decoration: none;
         font-size: 1.5rem;
         color: #fcb8d2;
+        &:active,
         &:active {
-            color: white;
-        }
-        &:hover {
             color: white;
         }
     }
