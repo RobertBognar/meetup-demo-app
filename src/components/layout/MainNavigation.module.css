@@ -36,7 +36,7 @@
   color: #fcb8d2;
 }
 
-.header a:active, .header a:active {
+.header a:hover, .header a:active {
   color: white;
 }
 
@@ -47,7 +47,7 @@
 }
 
 .badge {
-  background-color: #cc2062;
+  background-color: #913457;
   color: white;
   border-radius: 12px;
   padding: 0 1rem;
